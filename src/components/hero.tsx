@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Button } from '@/components/ui/button'
 import { Github, Linkedin, Download, ChevronDown } from 'lucide-react'
-import { cn } from '@/lib/utils'
+// import { cn } from '@/lib/utils'
 
 const typingTexts = [
   "Full Stack Developer",
